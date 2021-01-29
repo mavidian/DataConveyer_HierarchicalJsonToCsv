@@ -1,0 +1,28 @@
+[
+  {
+    "Year": "2009",
+    "Alabama": {
+      "Population": "",
+      "Drivers": "3782284",
+      "Vehicles": "4610850"
+    },
+    "Arizona": {
+      "Population": "",
+      "Drivers": "4403390",
+      "Vehicles": "4357630"
+    }
+  },
+  {
+    "Year": "2010",
+    "Alabama": {
+      "Population": "4785514",
+      "Drivers": "3805751",
+      "Vehicles": "4653840"
+    },
+    "Arizona": {
+      "Population": "6407342",
+      "Drivers": "4443647",
+      "Vehicles": "4320010"
+    }
+  }
+]
